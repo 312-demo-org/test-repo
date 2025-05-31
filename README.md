@@ -4,9 +4,12 @@ This line is added at 11:30AM
 Additional line again
 No any plans
 I'm tired, Boss :(
+I am going on a picnic today
+My favorite color is money
 feature/nurjigit
 testing number one 
 still testing 
 Valeriy 
 Vitaliy
-main
+Changes for test
+
