@@ -8,3 +8,4 @@ zach's favorite color is blue
 Valeriy 
 Vitaliy
 
+#adding some fixes
