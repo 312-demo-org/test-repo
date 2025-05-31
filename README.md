@@ -6,6 +6,6 @@ Additional line again
 I am going on a picnic today
 My favorite color is money
 =======
-This Evan 
+This is Evan 
 my favorite food is steak.
 >>>>>>> 5a4a343 (added my favorite food)
