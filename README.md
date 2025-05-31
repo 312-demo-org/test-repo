@@ -1,3 +1,2 @@
 # test-repo
-
-Test Valeriy Kalyuzhnyy
+this is Kurman
